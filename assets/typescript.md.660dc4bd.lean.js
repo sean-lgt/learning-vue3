@@ -1,0 +1,8 @@
+/**
+ * name: learning-vue3
+ * version: v2.0.0
+ * description: A starting learning tutorial on Vue 3.0 + TypeScript, suitable for complete Vue novices and Vue 2.0 veterans, incorporating some of my own practical experience on the basis of official documents.
+ * author: chengpeiquan <chengpeiquan@chengpeiquan.com>
+ * homepage: https://vue3.chengpeiquan.com
+ */
+import{D as l,o as y,c as D,G as a,B as e,z as s,a as n,t as F,R as p}from"./chunks/framework.6e7fb2f6.js";const C=p("",4),A=p("",117),i=s("p",{class:"custom-block-title"},"TIP",-1),d=s("code",null,"counter",-1),g=s("code",null,"console.log",-1),h=s("a",{href:"https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Template_literals",target:"_blank",rel:"noreferrer"},"模板字符串",-1),u=s("p",null,[n("对 JavaScript 后面推出的新语法不太熟悉的话，很容易和单引号混淆，在学名上，它也被称之为 “反引号” （ Backquote ） ，可以使用标准键盘的 "),s("code",null,"ESC"),n(" 键下方、也就是 "),s("code",null,"1"),n(" 左边的那个按键打出来。")],-1),m=p("",191),q=JSON.parse('{"title":"快速上手 TypeScript","description":"","frontmatter":{"outline":"deep"},"headers":[],"relativePath":"typescript.md","filePath":"typescript.md"}'),E={name:"typescript.md"},S=Object.assign(E,{setup(B){const t="``";return(f,b)=>{const c=l("ImgWrap"),o=l("ClientOnly"),r=l("GitalkComment");return y(),D("div",null,[C,a(o,null,{default:e(()=>[a(c,{src:"/assets/img/github-top-languages.jpg",dark:"/assets/img/github-top-languages-dark.jpg",alt:"TypeScript 的流行程度（来自 GitHub 年度统计报告）"})]),_:1}),A,s("div",{class:"tip custom-block"},[i,s("p",null,[n("注意在上面 "),d,n(" 函数的 "),g,n(" 语句里，使用了一个 "),s("code",null,F(t)),n(" 符号来定义字符串，这是 ES6 语法里的 "),h,n(" ，它和传统的单引号 / 双引号相比更为灵活，特别是遇到字符串需要配合多变量拼接和换行的情况。")]),u]),m,a(o,null,{default:e(()=>[a(r,{issueId:193})]),_:1})])}}});export{q as __pageData,S as default};
